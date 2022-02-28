@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 24601626cf5926c43a5f5de77708fbc1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Revans
+  fontNames:
+  - Revans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7306409569d137d41adafe695179fedc, type: 3}
+  - {fileID: 12800000, guid: ff695be7ff7787a4d854d2075e362cee, type: 3}
+  - {fileID: 12800000, guid: f64aa7689e4b3f743b405d8066c9b036, type: 3}
+  - {fileID: 12800000, guid: 4bb8c6e89202a284eb5a426d115c5560, type: 3}
+  - {fileID: 12800000, guid: 5996678cb727e8247a4bfe4a805f80da, type: 3}
+  - {fileID: 12800000, guid: 80a88daeace942446abf6d30e4fec7b4, type: 3}
+  - {fileID: 12800000, guid: 1af043afef064e743add2aeb2bd67396, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

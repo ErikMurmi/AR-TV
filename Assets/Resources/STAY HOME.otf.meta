@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3d140c385afb08e47b808ba52a2b7e21
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: STAY HOME
+  fontNames:
+  - STAY HOME
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: dec1ba6c7529f3d41ab455511c694dba, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

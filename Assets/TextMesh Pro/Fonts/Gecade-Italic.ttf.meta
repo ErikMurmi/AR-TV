@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: c60c19068782c4340badf7893306a233
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gecade
+  fontNames:
+  - Gecade
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 76be1034cb1a0ac468f50e102a370066, type: 3}
+  - {fileID: 12800000, guid: 322d6f0639128e14895a2b1be661ba92, type: 3}
+  - {fileID: 12800000, guid: c4818f085dd98684abebd5029c50d133, type: 3}
+  - {fileID: 12800000, guid: 02adab3889936454eb5815a6cfed3f92, type: 3}
+  - {fileID: 12800000, guid: b8894768349a3064d9dfe61a1a5ee340, type: 3}
+  - {fileID: 12800000, guid: d08a1a1ac8be89044b337a807a599d44, type: 3}
+  - {fileID: 12800000, guid: 7eca612b6104f524ea4f5f27e783cf07, type: 3}
+  - {fileID: 12800000, guid: 7dd4917ce4264b741ae5e4b3d052b787, type: 3}
+  - {fileID: 12800000, guid: 11f1bf9e0d2a99048a933827d75437f9, type: 3}
+  - {fileID: 12800000, guid: 5b7716cf4fc0a194b97c2106edc7e87c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

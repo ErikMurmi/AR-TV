@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: d7ec2864f66b8c24f9d4ddca165f4576
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cherione
+  fontNames:
+  - Cherione
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f5a727f7a8f17f14e94dc7882799d99a, type: 3}
+  - {fileID: 12800000, guid: 2cc526cb36832534ab8f9dc02a6b24f8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
